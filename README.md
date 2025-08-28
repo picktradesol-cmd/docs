@@ -5,7 +5,7 @@ cover: .gitbook/assets/Pick Trade banner (1).png
 coverY: 0
 ---
 
-# What's Pick.trade?
+# What's Pick.trades?
 
 Pick Trade is a decentralized platform that allows anyone to trade, create and interact with **any token** on the Solana blockchain.
 
