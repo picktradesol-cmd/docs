@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [What's Pick.trade?](README.md)
+* [What's Pick.trades?](README.md)
 * [The ultimate launchpad](introduction/publish-your-docs.md)
 * [How it works](introduction/how-it-works.md)
 
